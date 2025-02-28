@@ -1,11 +1,11 @@
 html{
-    background-color: rgb(233, 206, 198);
+    background-color: rgb(231, 196, 186);
 }
 
 
 .titulo{
     h1{
-        background-color: rgb(209, 134, 80);
+        background-color: rgb(179, 104, 50);
         text-align: center;
         border-radius: 15px;
         padding-top: 15px;
@@ -16,22 +16,28 @@ html{
 
 .caracteristicas{
     h2{ 
-        text-align: center;
-         font-size: 30px;
-    }
-    p{
-        text-align: center;
+        margin-left: 30%;
         color: brown;
         font-weight: bold;
-        font-size: 30px;
+        font-size: 27px;
+
+        }
+    p{
+    
+        margin-left: 30%;
+        font-weight: bold;
+        font-size: 27px;
+        color: brown;
+
+        }
     }
     img{
-         width: 600px;
-         margin-left: 35%;
+         width: 450px;
+         margin-left: 33%;
         
     }
 
-}
+
 hr{
     border: 2px solid;
     border-color: brown;
@@ -39,22 +45,25 @@ hr{
 
 .ingredientes{
     h2{
-        text-align: center;
-        font-size: 40px;
-    }
-    ul{
-        margin-left: 45%;
+        margin-left: 30%;
         font-weight: bold;
-        font-size: 30px;
-    }
+        font-size: 27px;
+        }
+    ul{
+        margin-left: 30%;
+            font-weight: bold;
+            font-size: 27px;
+        }
 }
  
 .modoPreparo{
          h3{
-            text-align: center;
-            font-size: 30px;
-          
+
+            margin-left: 30%;
+            font-weight: bold;
+            font-size: 27px;
         }
+            
     
 
          ol{
